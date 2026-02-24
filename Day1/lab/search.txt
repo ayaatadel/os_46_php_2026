@@ -1,0 +1,5 @@
+=====> Different Between
+1- const , define
+2- different between && and AND
+3- different between (isSet , isEmpty)
+4- different between (? , ??)
