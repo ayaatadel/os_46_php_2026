@@ -1,0 +1,61 @@
+
+2-$str= "hello track iti track"
+parametrt of function string
+
+- function reverse string
+- funtion  count word->track
+- function count character -> a  , position of  character -> a  
+
+3- $arr[22,25,28,15,27,19,13,10,0,2,1]
+parametrt of function array
+- function sort array assending
+- function revers array 
+- function return max number in array
+- function return min number in array
+- function return sum , average  array
+- function return max even number array
+- function return max odd number array
+
+4- $names=["mohammed","ahmed","mahmoud","yousef","omar"]
+parametrt of function array
+funstion name($n)==> $n = $names
+
+- function sort array assending
+- function revers array 
+- build table headers(id->index , name->values)
+
+5-$data =[
+    [
+        "name"=>"hazem",
+        "age"=>24,
+        "address"=>"cairo"
+    ],
+    [
+        "name"=>"david",
+        "age"=>22,
+        "address"=>"menia"
+    ],
+    [
+        "name"=>"mahmoud",
+        "age"=>25,
+        "address"=>"shebin"
+    ],
+
+]
+parametrt of function array
+funstion name($n)==> $n = $data
+- function sort array assending
+- function revers array 
+- build table headers(id->index , name, age , address)
+
+
+=====================
+take data from user  using form and print it in table 
+
+
+
+
+
+
+
+
