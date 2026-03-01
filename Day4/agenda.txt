@@ -1,0 +1,33 @@
+========= Day4
+dealing with file 
+get path of file
+create file
+check if file exist or not
+get path of directory (folder)
+create directory (folder)
+check if directory exist or not
+
+============ Modes of file 
+r : read only 
+w : write data as new  only (remove old data) + create file
+a : append data (save old data ) + create file
+r+ : read data +  append + not create file 
+w+ : read and write (remove old data) + create file
+a+ :  read and write (save old data) + create file
+
+==================
+dealing with data and store it in file
+read data from file
+dealing with image and store it in file 
+
+
+=================
+notes 
+=== file has data ===> w+ (don't use it )
+   ---------------> remove old data 
+==========> open file + write 
+            get file size after write 
+            rewind ==> pointer of file
+            print data of file 
+===========> fread , frwite , fsize ===> resource || stream ===> not string 
+            ===> variable ==> file that you opened

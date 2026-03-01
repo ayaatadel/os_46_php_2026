@@ -1,0 +1,16 @@
+// read data line by line  and print it (get-->)
+fflush
+fseek
+rewind 
+
+
+===============>
+register ===> check --> name , email ==> unique
+exist ===> error 
+
+======> login ==>  check --> name , email ==> alldata
+    data all users (table) , incrept password(bonous)
+
+    name , email ,image
+
+    
