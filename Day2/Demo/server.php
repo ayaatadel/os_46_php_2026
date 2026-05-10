@@ -34,7 +34,7 @@ if(isset($_POST["register"]))
      ];
      
 
-   if($_post["name"]=="admin")
+   if($_POST["name"]=="admin")
     {
          header("location:register.php?message=register successfully you can login");
      exit;
