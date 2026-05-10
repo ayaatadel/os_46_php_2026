@@ -45,7 +45,15 @@ echo gettype($test) , "<br>";
 is_null($test) ? print("null") : print("not null") ;
 echo "<br>";
 echo (is_null($test) ? ("null") : ("not null")) ;
+//====================================================
 
+echo "<br> ********************  casting ********************** <br>";
+
+$x=5;
+settype($x,"string");
+echo gettype($x) , "<br>";
+$x=(int)$x;
+echo gettype($x) , "<br>";
 echo "<br> ****************************************** <br>";
 
 // ========> Anonymous function (closure function)
